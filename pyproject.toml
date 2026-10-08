@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gatecheck"
-version = "0.1.0"
+version = "0.1.1"
 description = "Provider-agnostic LLM evaluation harness: task suites, deterministic + LLM-as-judge graders, regression gating, and cost/latency tracking."
 readme = "README.md"
 requires-python = ">=3.10"

@@ -4,4 +4,4 @@ Pillars: task suites, deterministic + LLM-as-judge graders, regression gating,
 and cost/latency tracking.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
